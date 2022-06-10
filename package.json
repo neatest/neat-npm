@@ -106,7 +106,7 @@
     "rollup-plugin-node-externals": "^2.2.0",
     "rollup-plugin-size-snapshot": "^0.12.0",
     "rollup-plugin-terser": "^7.0.0",
-    "semantic-release": "^17.1.1",
+    "semantic-release": "^19.0.3",
     "terser": "^5.2.1",
     "typescript": "^4.0.2",
     "varname": "^2.0.3"
